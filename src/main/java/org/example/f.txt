@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flats>
+    <flat>
+        <id>1</id>
+        <name>Luxury Apartment</name>
+        <creationDate>2023-05-15T12:30:45+03:00</creationDate>
+        <coordinates>
+            <x>12.5</x>
+            <y>100</y>
+        </coordinates>
+        <area>150.5</area>
+        <numberOfRooms>5</numberOfRooms>
+        <furnish>DESIGNER</furnish>
+        <view>GOOD</view>
+        <transport>ENOUGH</transport>
+        <house>
+            <name>Elite Building</name>
+            <year>2020</year>
+            <numberOfLifts>4</numberOfLifts>
+        </house>
+    </flat>
+    <flat>
+        <id>2</id>
+        <name>Economy Flat</name>
+        <creationDate>2023-05-16T10:15:30+03:00</creationDate>
+        <coordinates>
+            <x>25.0</x>
+            <y>80</y>
+        </coordinates>
+        <area>45.0</area>
+        <numberOfRooms>2</numberOfRooms>
+        <furnish>FINE</furnish>
+        <view>NORMAL</view>
+    </flat>
+</flats>
